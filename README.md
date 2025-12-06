@@ -7,9 +7,9 @@ of Dolly Varden under multiple biological scenarios. The project is organized in
 </p>
 
 <ul>
-    <li><strong>Case_Study</strong> – R code for fitted models applied to two river systems.</li>
-    <li><strong>Simulation_Study</strong> – Simulation scripts for evaluating model performance.</li>
-    <li><strong>Data</strong> – Datasets corresponding to the case studies.</li>
+    <li><strong>Case_Study Codes</strong> – R code for fitted models applied to two river systems.</li>
+    <li><strong>Case_Study Data</strong> – Datasets corresponding to the case studies.</li>
+    <li><strong>Simulation_Study Codes</strong> – Simulation scripts for evaluating model performance.</li>
 </ul>
 
 <p>
@@ -55,17 +55,7 @@ These scripts reproduce the case-study results presented in the associated resea
 
 <hr>
 
-<h2>2. Simulation_Study Codes/</h2>
-
-<p>
-This directory includes R scripts used to conduct simulation studies.
-The provided scripts simulate a baseline scenario; however, users can modify the parameter values 
-to match other scenarios using the values described in the paper.
-</p>
-
-<hr>
-
-<h2>3. Case_Study Data/</h2>
+<h2>2. Case_Study Data/</h2>
 
 <p>
 This folder contains datasets used in the case studies and includes:
@@ -85,6 +75,16 @@ Each river folder contains datasets corresponding to the three model cases:
     <li>Growth depending on breeding</li>
     <li>Growth depending on sex</li>
 </ul>
+
+<hr>
+
+<h2>3. Simulation_Study Codes/</h2>
+
+<p>
+This directory includes R scripts used to conduct simulation studies.
+The provided scripts simulate a baseline scenario; however, users can modify the parameter values 
+to match other scenarios using the values described in the paper.
+</p>
 
 <hr>
 
