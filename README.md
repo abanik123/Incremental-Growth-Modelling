@@ -2,7 +2,7 @@
 <h1>Project Overview</h1>
 
 <p>
-This repository contains R code, simulation scripts, and datasets used for modeling the growth dynamics 
+This repository contains R code, simulation scripts, and datasets used for modelling the growth dynamics 
 of Dolly Varden under multiple biological scenarios. The project is organized into three main components:
 </p>
 
@@ -92,7 +92,7 @@ to match other scenarios using the values described in the paper.
 
 <ul>
     <li>R (4.4.0)</li>
-    <li>R packages commonly used for Bayesian and growth modeling (e.g., <code>nimble</code>, <code>MCMCvis</code>, <code>tidyverse</code>,
+    <li>R packages commonly used for Bayesian and growth modelling (e.g., <code>nimble</code>, <code>MCMCvis</code>, <code>tidyverse</code>,
       <code>dplyr</code>, <code>abind</code>)</li>
 </ul>
 
