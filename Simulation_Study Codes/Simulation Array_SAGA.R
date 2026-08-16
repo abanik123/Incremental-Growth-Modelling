@@ -17,8 +17,8 @@ sim_function <- function(params){
     beta[1] <- params$beta0
     beta[2] <- params$beta1
     
-    a_sigma <- 2.1
-    b_sigma <- 1.1
+    a_sigma <- 3
+    b_sigma <- 2
     
     mu_o <- 1.1
     sigma_mu_o <- 3
@@ -227,8 +227,8 @@ sim_function <- function(params){
     beta[1] ~ dnorm(0,0.1)
     beta[2] ~ dnorm(0,0.1)
     
-    a_sigma <- 2.1
-    b_sigma <- 1.1 
+    a_sigma <- 3
+    b_sigma <- 2 
     
     mu_o <- 1.1 
     sigma_mu_o <- 3
