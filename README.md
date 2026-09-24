@@ -1,4 +1,4 @@
-# Paper Title: Modelling incremental length-based growth using a Cormack–Jolly–Seber framework: An application to anadromous Dolly Varden
+# Paper Title: Modelling incremental length-based growth using a Cormack–Jolly–Seber framework with application to anadromous Dolly Varden
 <h1>Project Overview</h1>
 
 <p>
